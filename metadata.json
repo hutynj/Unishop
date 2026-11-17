@@ -1,0 +1,6 @@
+{
+  "name": "UniShop",
+  "description": "Agregador de compras universal y carrito unificado para Amazon, Vinted, Wallapop, AliExpress y eBay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
